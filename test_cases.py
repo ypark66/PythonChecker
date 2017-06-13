@@ -713,8 +713,7 @@ def tuple_error():
 print("testing for errors")
 obj = error()
 type_mismatch()
-#argument_type_error(b = False, True)   #BUG, argument type mismatch
-#argument_type_error(a = 4000, True)    #BUG, named argument followed by unnamed(positional) argument
+
 
 
 

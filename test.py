@@ -1,3 +1,5 @@
+import string
+
 a = string.capitalize("jamie") #BUG, AttributeError
 a = string.capwords("jamie")
 
