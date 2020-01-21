@@ -32,11 +32,11 @@ The following errors are included in the sample test cases, which is test_cases.
 23. TIME OUT ERROR
 24. OS ERROR
 25. PROCESS LOOKUP ERROR
-26. VALUE ERROR
-27. TYPE MISMATCH
+26. Value Error
+27. Type Mismatch
 28. UNICODE ERROR
-29. RECURSION ERROR
-30. WEAK REFERENCE ERROR
+29. Recursion Error
+30. Weak Reference Error
 31. logically Wrong Condition
 32. Infinite Loop
 33. Number of Arguments Error
